@@ -9,3 +9,5 @@ MemoryCaptures/
 *.sln
 *.user
 *.userprefs
+.vscode/
+main
